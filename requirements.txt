@@ -1,0 +1,13 @@
+google-generativeai
+pypdf
+langchain_community
+python-dotenv
+langchain_community
+langchain
+langchain_google_genai
+langchain_community
+pypdf
+faiss-cpu
+reportlab
+fpdf
+langfuse
